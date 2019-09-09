@@ -225,9 +225,9 @@ googleAnalytics = ""
   # Location section
   [params.location]
     enable = true
-    title = "Location title"
+    title = "Go Data Driven office"
     bg = true
-    iframesrc = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12770.336629178193!2d174.7680403!3d-36.8524341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x868a73f26ed3e621!2sDepartment+of+Statistics%2C+University+of+Auckland!5e0!3m2!1sen!2suk!4v1533231461829"
+    iframesrc = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2437.0053254115433!2d4.9107555155024665!3d52.352188679782735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609839b9f1c39%3A0xb8062e325ecbf5e1!2sGoDataDriven!5e0!3m2!1snl!2snl!4v1568050206979!5m2!1snl!2snl"
 
   # Team section
   [params.team]
