@@ -276,12 +276,12 @@ googleAnalytics = ""
 
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Organiser Name 3"
-      position = "Organiser Position 3"
+      name = "Roel Hogervorst"
+      position = "buildR"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/RoelMHogervorst"],
+        ["fa-github", "https://github.com/rmhogervorst/"],
+        ["fa-linkedin", "https://www.linkedin.com/in/rmhogervorst/"]
       ]
 
   # Client section
