@@ -78,7 +78,7 @@ googleAnalytics = ""
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "satRday Amsterdam"
-    subtitle = "A conference for users of the R Language on [Conference Date]"
+      subtitle = "A conference for users of the R Language on January 18th 2020"
     bg = true
     buttonText = "Tell me more"
 
@@ -246,8 +246,38 @@ googleAnalytics = ""
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Organiser Name 1"
+      name = "Janine Khuc"
       position = "Organiser Position 1"
+      reportsTo = ""
+      livesIn = "[Munich, Germany](#some-maps-url)"
+      scope = [
+        "Role 1 for [thing 1](#)",
+        "Role 2 for [thing 2](#)",
+        "Role 3 for [thing 3](#)"
+      ]
+      # For bio markdown and even multiline strings are available.
+      bio = """I do things,
+      and stuff"""
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-github", "#"],
+        ["fa-linkedin", "#"]
+      ]
+      
+    [[params.team.members]]
+      img = "faceholder.png"
+      name = "Zuzanne Leova"
+      position = "Organiser Position 2"
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-github", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "faceholder.png"
+      name = "Juan Perafan"
+      position = ""
       reportsTo = ""
       livesIn = "[Munich, Germany](#some-maps-url)"
       scope = [
@@ -266,17 +296,7 @@ googleAnalytics = ""
 
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Organiser Name 2"
-      position = "Organiser Position 2"
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
-      ]
-
-    [[params.team.members]]
-      img = "faceholder.png"
-      name = "Roel Hogervorst"
+      name = "Roel M. Hogervorst"
       position = "buildR"
       social = [
         ["fa-twitter", "https://twitter.com/RoelMHogervorst"],
