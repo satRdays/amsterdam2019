@@ -94,7 +94,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "[Conference Date] at GoDatadriven"
+      description = "18 October 2020 at GoDatadriven"
       url = "#"
 
     [[params.services.row.list]]
@@ -118,7 +118,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Affordable"
-      description = "Only 40 Euros"
+      description = "Only 45 Euros"
       url = "#"
 
     [[params.services.row.list]]
@@ -200,25 +200,25 @@ googleAnalytics = ""
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
-      date = "First Date"
+      date = "2019-07-01"
       title = "Initial Announcement"
       description = "We're organising a conference!"
 
-    [[params.about.events]]
-      img = "2.jpg"
-      date = "Second Date"
-      title = "Early Bird Ticket Sales"
-      description = "Early round of tickets now available at discount"
+    # [[params.about.events]]
+    #   img = "2.jpg"
+    #   date = "Second Date"
+    #   title = "Early Bird Ticket Sales"
+    #   description = "Early round of tickets now available at discount"
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "Third Date"
+      date = "2019-10-26"
       title = "Call For Papers"
       description = "Submissions for speakers are now open!"
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "Fourth Date"
+      date = "2019-11-24"
       title = "Call For Papers Ends"
       description = "Cut off date for speaker submissions"
 
