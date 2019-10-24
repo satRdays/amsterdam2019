@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://amsterdam2019.satrdays.org/"
+baseurl = "https://amsterdam2020.satrdays.org/"
 languageCode = "en-us"
 title = "satRday"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
