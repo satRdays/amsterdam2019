@@ -249,24 +249,25 @@ googleAnalytics = ""
       name = "Janine Khuc"
       position = "Organiser Position 1"
       reportsTo = ""
-      livesIn = "[Munich, Germany](#some-maps-url)"
+      livesIn = "[Amsterdam, Netherlands](#some-maps-url)"
       scope = [
         "Role 1 for [thing 1](#)",
         "Role 2 for [thing 2](#)",
         "Role 3 for [thing 3](#)"
       ]
       # For bio markdown and even multiline strings are available.
-      bio = """I do things,
-      and stuff"""
+      bio = """Data Scientist and co-founder of
+      R-Ladies Amsterdam, life is kept busy trying
+      to tackle biases in data and people."""
       social = [
-        ["fa-twitter", "#"],
+        ["fa-twitter", "https://twitter.com/janinekhuc"],
         ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-linkedin", "https://www.linkedin.com/in/janine-khuc"]
       ]
-      
+
     [[params.team.members]]
       img = "faceholder.png"
-      name = "Zuzanne Leova"
+      name = "Zuzanne Leová"
       position = "Organiser Position 2"
       social = [
         ["fa-twitter", "#"],
@@ -298,6 +299,8 @@ googleAnalytics = ""
       img = "faceholder.png"
       name = "Roel M. Hogervorst"
       position = "buildR"
+      bio = """I build packages, and data science solutions in python and R"""
+      livesIn = "[Leiden, Netherlands](#some-maps-url)"
       social = [
         ["fa-twitter", "https://twitter.com/RoelMHogervorst"],
         ["fa-github", "https://github.com/rmhogervorst/"],
