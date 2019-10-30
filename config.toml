@@ -249,7 +249,7 @@ googleAnalytics = ""
       name = "Janine Khuc"
       position = "Organiser Position 1"
       reportsTo = ""
-      livesIn = "[Amsterdam, Netherlands](#some-maps-url)"
+      livesIn = "[Amsterdam, Netherlands](https://goo.gl/maps/mEGDU2JagwGykS8X8)"
       scope = [
         "Role 1 for [thing 1](#)",
         "Role 2 for [thing 2](#)",
@@ -269,6 +269,7 @@ googleAnalytics = ""
       img = "faceholder.png"
       name = "Zuzanne Leová"
       position = "Organiser Position 2"
+      livesIn = "[Amsterdam, Netherlands](https://goo.gl/maps/mEGDU2JagwGykS8X8)"
       social = [
         ["fa-twitter", "#"],
         ["fa-github", "#"],
@@ -280,7 +281,7 @@ googleAnalytics = ""
       name = "Juan Perafan"
       position = ""
       reportsTo = ""
-      livesIn = "[Munich, Germany](#some-maps-url)"
+      livesIn = "[Amsterdam, Netherlands](https://goo.gl/maps/mEGDU2JagwGykS8X8)"
       scope = [
         "Role 1 for [thing 1](#)",
         "Role 2 for [thing 2](#)",
@@ -300,7 +301,7 @@ googleAnalytics = ""
       name = "Roel M. Hogervorst"
       position = "buildR"
       bio = """I build packages, and data science solutions in python and R"""
-      livesIn = "[Leiden, Netherlands](#some-maps-url)"
+      livesIn = "[Leiden, Netherlands](https://goo.gl/maps/joTCaASPrifqAvb76)"
       social = [
         ["fa-twitter", "https://twitter.com/RoelMHogervorst"],
         ["fa-github", "https://github.com/rmhogervorst/"],
